@@ -33,7 +33,7 @@
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
-港潮频道,#genre#
+潮汕频道,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
@@ -148,32 +148,26 @@ TVB生活,http://iptv.4666888.xyz/iptv2A.php?id=11
 TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
 TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
 中央频道,#genre#
-CCTV-1综合,http://121.57.88.206:898/hls/1/index.m3u8
-CCTV-2财经,https://iptv.catvod.com/douyin/nuanxinnengl
-CCTV-3综艺,http://59.172.112.202:8000/hls/3/index.m3u8 
-CCTV-4中文国际,http://121.57.88.206:898/hls/4/index.m3u8
-CCTV-5体育,http://59.172.112.202:8000/hls/5/index.m3u8
+CCTV-1 综合,http://121.57.88.206:898/hls/1/index.m3u8
+CCTV-2 财经,https://iptv.catvod.com/douyin/nuanxinnengl
+CCTV-3 综艺,http://59.172.112.202:8000/hls/3/index.m3u8 
+CCTV-4 中文国际,http://121.57.88.206:898/hls/4/index.m3u8
+CCTV-5 体育,http://59.172.112.202:8000/hls/5/index.m3u8
 CCTV-5+体育赛事,http://121.57.88.206:898/hls/18/index.m3u8
-CCTV-6电影,http://121.57.88.206:898/hls/6/index.m3u8
-CCTV-7国防军事,http://121.57.88.206:898/hls/7/index.m3u8
-CCTV-8电视剧,http://59.172.112.202:8000/hls/8/index.m3u8
-CCTV-9纪录,http://121.57.88.206:898/hls/9/index.m3u8
-CCTV-10科教,http://111.8.224.6:9999/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11戏曲,http://59.172.112.202:8000/hls/11/index.m3u8
-CCTV-12社会与法,http://gslbserv.itv.cmvideo.cn:80/5325631075193490169/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=toShengfen&mode=1
-CCTV-13新闻,http://59.172.112.202:8000/hls/13/index.m3u8
-CCTV-14少儿,http://gslbserv.itv.cmvideo.cn:80/8203666801302077036/1.m3u8?channel-id=ystenlive&Contentid=8203666801302077036&livemode=1&stbId=toShengfen&mode=1
-CCTV-15音乐,http://59.172.112.202:8000/hls/15/index.m3u8
+CCTV-6 电影,http://121.57.88.206:898/hls/6/index.m3u8
+CCTV-7 国防军事,http://121.57.88.206:898/hls/7/index.m3u8
+CCTV-8 电视剧,http://59.172.112.202:8000/hls/8/index.m3u8
+CCTV-9 纪录,http://121.57.88.206:898/hls/9/index.m3u8
+CCTV-10 科教,http://111.8.224.6:9999/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11 戏曲,http://59.172.112.202:8000/hls/11/index.m3u8
+CCTV-12 社会与法,http://gslbserv.itv.cmvideo.cn:80/5325631075193490169/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=toShengfen&mode=1
+CCTV-13 新闻,http://59.172.112.202:8000/hls/13/index.m3u8
+CCTV-14 少儿,http://gslbserv.itv.cmvideo.cn:80/8203666801302077036/1.m3u8?channel-id=ystenlive&Contentid=8203666801302077036&livemode=1&stbId=toShengfen&mode=1
+CCTV-15 音乐,http://59.172.112.202:8000/hls/15/index.m3u8
 演唱会场,#genre#
 刘德华今日演唱会上,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8d5752d2b128a010370019981d8805d_258.mp4
 刘德华今日演唱会中,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8d575b81a468c4f0370019981d7590e_258.mp4
 刘德华今日演唱会下,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8d576391a55d74f0370019981d9b2f3_258.mp4
-刘德华抖精彩片段一,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8d55d9a38a29a01037001998179dc88_258.mp4
-刘德华抖精彩片段二,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8d55f342b33eb0103700199818a670e_258.mp4
-刘德华今天演唱会一,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8d56c0738b82a010370019981b0f51d_258.mp4
-刘德华今天演唱会二,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8d56c6a1cc47b4f0370019981b1936a_258.mp4
-刘德华今天演唱会三,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8d56cda3884c0010370019981b36f0e_258.mp4
-刘德华今天演唱会四,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8d56d192b31c9010370019981b350f9_258.mp4
 动感舞曲,#genre#
 《醉过多少回》,https://vd4.bdstatic.com/mda-megp46e98a4f2b9g/sc/h264/1621239560364992817/mda-megp46e98a4f2b9g.mp4
 《最美的情缘DJ版》,https://vd3.bdstatic.com/mda-ih4mz2ubqfx9q9gb/sc/mda-ih4mz2ubqfx9q9gb.mp4
@@ -327,7 +321,7 @@ CCTV-15音乐,http://59.172.112.202:8000/hls/15/index.m3u8
 《无彩我爱你》,https://vdse.bdstatic.com//17aceb93dbe94dcfd1982fe03f99d6fd.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2026-02-09T18%3A19%3A58Z%2F-1%2Fhost%2F4e05b9a9408295d32146e2db284a35529fc39f44479b510f0876c69eed5d564c&vid=15442575642667098236
 《烧酒话》,https://vdse.bdstatic.com//bfb7e30301e9ad1c5faf8d7d6e22f182.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2026-02-05T08%3A43%3A10Z%2F-1%2Fhost%2F69e1fb061524d7bbb6d93b7689993606a739dd08412f9414d3055741cc4af101&vid=532754481032104181
 《爱情的骗子我问你》,https://vdse.bdstatic.com//b75dd411ccffd896ed6b59b0ae7c3f76.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2026-02-11T19%3A11%3A44Z%2F-1%2Fhost%2F23588081ce09c059457bf1e41e14bfd4961bc044235cb44f1dd95d58e3d5e3f0&vid=16626384881931026188
-免失志,https://vdse.bdstatic.com//4a5b49cad43b81caa2edc42b56b26569.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2026-02-11T19%3A14%3A38Z%2F-1%2Fhost%2F7557a0b09e83f377e2b2af84fe0bcc3fb29278b9edc13618d8bb21b8a4a33e48&vid=16455190826790542585
+《免失志》,https://vdse.bdstatic.com//4a5b49cad43b81caa2edc42b56b26569.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2026-02-11T19%3A14%3A38Z%2F-1%2Fhost%2F7557a0b09e83f377e2b2af84fe0bcc3fb29278b9edc13618d8bb21b8a4a33e48&vid=16455190826790542585
 《浪子的心情》,https://vdse.bdstatic.com//5fc324285dbcefd05d3e91e720db3764.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2026-02-12T04%3A25%3A34Z%2F-1%2Fhost%2F2496757e30a8ad0b4c0de3d6015ef63632d9979f0ec69c58d06b98259aa933f1&vid=13343181227075835227
 《欢喜干一杯》,https://vdse.bdstatic.com//a0b032d52aabef7d3d02481dfae9066f.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2026-02-08T21%3A58%3A55Z%2F-1%2Fhost%2F33681992769d58294738aece2ed243914baa4ae0d742876db9f3310650cae49c&vid=16350566780393606006
 《爱人跟人走》,https://vdse.bdstatic.com//e99e6d4b2a92fd54183006f24944824d.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2026-02-11T19%3A09%3A40Z%2F-1%2Fhost%2F657f5fe7c05de511f4fb341bfdab71c7719842c15400bc68012ca7368f334d57&vid=156665520060877615
