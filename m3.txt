@@ -561,7 +561,7 @@ JJ斗地主频道,http://cfss.cc/cdn/huya/14079954.flv
 电视剧九频道,http://cfss.cc/cdn/huya/21059594.flv
 电视剧十频道,http://cfss.cc/cdn/huya/11336592.flv
 电视剧十一道,http://cfss.cc/cdn/huya/11602088.flv
-专场收看,#genre#
+专场收看_1234,#genre#
 香港,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 香港,https://cdn3.indevs.in/stream/tvb/tvbp/
 香港,https://cdn3.indevs.in/stream/tvb/tvbp/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee&uid=
