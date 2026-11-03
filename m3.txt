@@ -132,6 +132,7 @@ TVB无线新闻,http://cdn6.123.rr.kg/163189/wxxw
 汕尾综合,http://www.yahao.host:4022/udp/239.77.0.25:5146
 汕尾综合,http://yanshifen.top:8889/udp/239.77.0.25:5146
 汕尾综合,https://iswtv.swrtv.com/live/xwzhpd.m3u8
+给阿嬷多年的等待,https://v95-sz-web-prime.douyinvod.com/video/tos/cn/tos-cn-ve-15/osVIgEvg9tAQqAtfFzc4HsfXtkTDABFMCccAym/?a=6383&ch=0&cr=0&dr=0&er=0&cd=0%7C0%7C0%7C0&cv=1&br=1694&bt=1694&cs=0&ds=6&ft=p96FM4q1ffPdXP~ka1qNvAq-antLjrKR3gwuRkaWVviVvjVhWL6&mime_type=video_mp4&qs=12&rc=M2lnPDRkaTQzNjk4ZWdoOUBpM2w0OHE5cm1mZTMzNGkzM0AyLTBgYmIwNV8xNC4uNTM0YSM0M2hrMmQ0amVhLS1kLS9zcw%3D%3D&btag=c0000e00020000&cquery=100b_108D&dy_q=1793706585&expire=1793710237&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=20261103194945BBF3E2637418F40FD5A2&ply_type=4&policy=4&signature=998438e227dc0e195bebabc8cf07d684&tk=webid&webid=0da0dfd58e057446ac94b6955d170d229e63295035f63d277e795c5f35a7022b8df8deac7853f9ed29faddeb52417617b16808c81079b8d25d5f4846fdbd7f175f2c09aa1f446a0a17092ba0d6bac78c55996052166b9b368eed069dbc75c8cfff3f775273029bcb68d5a66720b7e6ac0b78542137fa42f178b22849220187c8d55bb2d267dd54251d4f92db4ec137f9c7c8cb07b37b34ec82a0832070149334-4127629c2426668b11a33a692208c086
 港台频道,#genre#
 TVBPlus,https://cdn3.indevs.in/stream/tvb/tvbp/
 TVBPlus,https://cdn3.indevs.in/stream/tvb/tvbp/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee&uid=
