@@ -366,7 +366,7 @@ CCTV-15音乐,http://59.172.112.202:8000/hls/15/index.m3u8
 《泪洒爱河桥》,https://vdse.bdstatic.com//b1e66a7251cb25547c362076b58dce06.mp4
 《梦难留》,https://vdse.bdstatic.com//90b3ab3b3ee5006c803e309afe0af060.mp4
 视频播放,#genre#
-功夫,https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
+电影功夫,https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
 国产凌凌漆,https://c1.rrcdnbf2.com/video/guochanlinglingqi/HD国语/index.m3u8
 大内密探零零发,https://p.bvvvvvvvvv1f.com/video/daneimitanlinglingfa/HD国语/index.m3u8
 鹿鼎记,https://c1.rrcdnbf6.com/video/ludingji/HD国语/index.m3u8
