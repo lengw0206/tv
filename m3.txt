@@ -1,4 +1,5 @@
 广东频道,#genre#
+经济科教,http://lsa.familyds.com:8188/udp/239.77.0.85:5146
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
 广东珠江,http://r.jdshipin.com/sE5vO
