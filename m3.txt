@@ -19,6 +19,8 @@
 广东卫视,http://222.214.208.34:59901/tsfile/live/0125_1.m3u8
 广东卫视,https://live.chinacert.cftest5.cn/zgst/live/guangdong
 广东卫视,http://14.204.32.194:6410/00000003/2/H_GDWS?virtualDomain=00000003.live_hls.zte.com
+广东影视,http://ikuai.cyruslee.top:8888/udp/239.77.0.217:5146
+广东影视,http://61.145.188.90:50055/udp/239.77.0.217:5146
 广东体育,http://192.151.150.154/live/gdty.m3u8
 大湾区卫视,http://192.151.150.154/live/nfws.m3u8
 深圳卫视,http://192.151.150.154/live/szwshd.m3u8
