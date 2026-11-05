@@ -388,6 +388,11 @@ CCTV-15音乐,http://59.172.112.202:8000/hls/15/index.m3u8
 《泪洒爱河桥》,https://vdse.bdstatic.com//b1e66a7251cb25547c362076b58dce06.mp4
 《梦难留》,https://vdse.bdstatic.com//90b3ab3b3ee5006c803e309afe0af060.mp4
 收看电影,#genre#
+我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
+让子弹飞,https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
+倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
+倩女幽魂人间道,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
+倩女幽魂道道道,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
 周星驰《功夫》,https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
 周星驰《国产凌凌漆》,https://c1.rrcdnbf2.com/video/guochanlinglingqi/HD国语/index.m3u8
 周星驰《大内密探零零发》,https://p.bvvvvvvvvv1f.com/video/daneimitanlinglingfa/HD国语/index.m3u8
