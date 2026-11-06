@@ -53,6 +53,7 @@ TVB无线新闻,http://cc.123.rr.kg/163189/wxxwt
 TVB无线新闻,http://cdn6.123.rr.kg/163189/wxxw
 TVB无线新闻,http://cdn6.123.rr.kg/163189/wxxwt
 TVB无线新闻,http://cdn6.123.rr.kg/163189/wxxw
+RHK32,http://120.234.44.98:18180/TV00000000000000000017@HHZT$天威hh
 潮州民生,http://lsa.familyds.com:8188/udp/239.253.43.75:5146
 潮州民生,http://61.145.188.90:50055/udp/239.253.43.75:5146
 潮州民生,http://hongzhijiaoyu.net:8188/udp/239.253.43.75:5146
@@ -143,6 +144,7 @@ TVB无线新闻,http://cc.123.rr.kg/163189/wxxwt
 TVB无线新闻,http://cdn6.123.rr.kg/163189/wxxw
 TVB无线新闻,http://cdn6.123.rr.kg/163189/wxxwt
 TVB无线新闻,http://cdn6.123.rr.kg/163189/wxxw
+RHK32,http://120.234.44.98:18180/TV00000000000000000017@HHZT$天威hh
 TVB星河,http://cc.123.rr.kg/163189/tvbxh
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯台,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
