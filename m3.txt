@@ -202,6 +202,7 @@ CCTV-15音乐,http://59.172.112.202:8000/hls/15/index.m3u8
 刘德华《2011年中国巡回演唱会 上海站 完整版》,https://vd4.bdstatic.com/mda-pa4a49uy4h0r7wn4/576p/h264/1672903079005864993/mda-pa4a49uy4h0r7wn4.mp4
 刘德华《巡回演唱会上海站 高清完整版》八万人大合唱,https://vd2.bdstatic.com/mda-nmedfmpuhx9k86xn/576p/h264/1671098620160374576/mda-nmedfmpuhx9k86xn.mp4
 动感舞曲,#genre#
+《十首车载音乐》,https://vd3.bdstatic.com/mda-nb6afsyti2t91p54/sc/cae_h264_delogo/1644221195521496576/mda-nb6afsyti2t91p54.mp4
 《醉过多少回》,https://vd4.bdstatic.com/mda-megp46e98a4f2b9g/sc/h264/1621239560364992817/mda-megp46e98a4f2b9g.mp4
 《最美的情缘DJ版》,https://vd3.bdstatic.com/mda-ih4mz2ubqfx9q9gb/sc/mda-ih4mz2ubqfx9q9gb.mp4
 《最火的5首DJ舞曲》,https://vd2.bdstatic.com/mda-mmqfbgzdj99h2g2a/sc/cae_h264_nowatermark/1640431486180468034/mda-mmqfbgzdj99h2g2a.mp4
@@ -233,7 +234,6 @@ CCTV-15音乐,http://59.172.112.202:8000/hls/15/index.m3u8
 《甜歌美人舞》,https://vd2.bdstatic.com/mda-ndr6b7bxbcxhs2hn/480p/h264_delogo/1650947738307316588/mda-ndr6b7bxbcxhs2hn.mp4
 《天在下雨我在想你DJ版》,https://vd3.bdstatic.com/mda-makbbuxuhfwrbbjv/v1-cae/1080p/mda-makbbuxuhfwrbbjv.mp4
 《时间会知道你好不好》,https://vd3.bdstatic.com/mda-mhairve7gvye1192/1080p/cae_h264/1629457148988604256/mda-mhairve7gvye1192.mp4
-《十首车载音乐》,https://vd3.bdstatic.com/mda-nb6afsyti2t91p54/sc/cae_h264_delogo/1644221195521496576/mda-nb6afsyti2t91p54.mp4
 《舍不得又能怎样呢》,https://vd2.bdstatic.com/mda-ncv1qd3acxskd46p/sc/cae_h264_delogo/1648720820032252958/mda-ncv1qd3acxskd46p.mp4
 《殇雪》,https://vd3.bdstatic.com/mda-mhve4gb9hi8cstzk/1080p/cae_h264/1630319514896018158/mda-mhve4gb9hi8cstzk.mp4
 《伤感情歌DJ》,https://vd3.bdstatic.com/mda-mkv7idcnxrgc3cnd/sc/cae_h264/1638257251905732477/mda-mkv7idcnxrgc3cnd.mp4
