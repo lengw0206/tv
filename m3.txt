@@ -153,7 +153,7 @@ TVB黃金華劇,http://iptv.4666888.xyz/iptv2A.php?id=34
 TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=28
 TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
 TVB生活,http://iptv.4666888.xyz/iptv2A.php?id=11
-MYTVSUPET,http://iptv.4666888.xyz/iptv2A.php?id=26
+MYTVsuper,http://iptv.4666888.xyz/iptv2A.php?id=26
 TVB翡翠一台,http://iptv.4666888.xyz/iptv2A.php?id=25
 中央频道,#genre#
 CCTV-1综合,http://mg.cttv.vip/608807420
