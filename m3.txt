@@ -149,12 +149,12 @@ TVB星河,http://cc.123.rr.kg/163189/tvbxh
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯台,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港台,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
-黃金華劇,http://iptv.4666888.xyz/iptv2A.php?id=34
+MYTVSUPER,http://iptv.4666888.xyz/iptv2A.php?id=34
 TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=28
 TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
 TVB生活,http://iptv.4666888.xyz/iptv2A.php?id=11
 TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
-翡翠一台,http://iptv.4666888.xyz/iptv2A.php?id=25
+TBV1,http://iptv.4666888.xyz/iptv2A.php?id=25
 中央频道,#genre#
 CCTV-1综合,http://mg.cttv.vip/608807420
 CCTV-2财经,http://mg.cttv.vip/631780532
