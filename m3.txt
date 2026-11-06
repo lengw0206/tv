@@ -31,7 +31,7 @@
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=234cace79a853922dd89c29a3823c470&txTime=191825e8b1d
 广州南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-番禺新闻,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+广州番禺综,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 肇庆综合,https://zqvlivestream.xjrb.com/zqLiveSlow/209.m3u8
 肇庆生活服务,https://zqvlivestream.xjrb.com/zqLiveSlow/210.m3u8
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
