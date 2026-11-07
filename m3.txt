@@ -138,7 +138,7 @@ TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=28
 TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
 TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
 TVB1翡翠一台,http://iptv.4666888.xyz/iptv2A.php?id=25
-TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS新闻网,http://61.221.215.25:8800/hls/9/index.m3u8
 中央频道,#genre#
 CCTV-1综合,http://mg.cttv.vip/608807420
 CCTV-2财经,http://mg.cttv.vip/631780532
