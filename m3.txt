@@ -75,12 +75,6 @@ RHK32,http://120.234.44.98:18180/TV00000000000000000017@HHZT$天威hh
 潮州综合,http://www.yahao.host:4022/udp/239.253.43.70:5146
 潮州综合,http://yanshifen.top:8889/udp/239.253.43.70:5146
 揭阳综合,http://ikuai.cyruslee.top:8888/udp/239.77.0.229:5146
-揭阳生活,http://61.145.188.90:50055/udp/239.77.0.251:5146
-揭阳生活,http://hongzhijiaoyu.net:8188/udp/239.77.0.251:5146
-揭阳生活,http://ikuai.cyruslee.top:8888/udp/239.77.0.251:5146
-揭阳生活,http://jellyfin.cyruslee.top:8888/udp/239.77.0.251:5146
-揭阳生活,http://www.3344.uk:8888/udp/239.77.0.251:5146
-揭阳生活,http://yanshifen.top:8889/udp/239.77.0.251:5146
 揭阳综合,http://61.145.188.90:50055/udp/239.77.0.229:5146
 揭阳综合,http://hongzhijiaoyu.net:8188/udp/239.77.0.229:5146
 揭阳综合,http://jellyfin.cyruslee.top:8888/udp/239.77.0.229:5146
@@ -114,7 +108,6 @@ RHK32,http://120.234.44.98:18180/TV00000000000000000017@HHZT$天威hh
 汕头综合,http://www.3344.uk:8888/udp/239.253.43.45:5146
 汕头综合,http://www.yahao.host:4022/udp/239.253.43.45:5146
 汕头综合,http://yanshifen.top:8889/udp/239.253.43.45:5146
-汕尾经济
 汕尾经济,http://plex.cyruslee.top:8888/udp/239.77.0.187:5146
 汕尾经济,http://www.3344.uk:8888/udp/239.77.0.187:5146
 汕尾经济,http://www.yahao.host:4022/udp/239.77.0.187:5146
