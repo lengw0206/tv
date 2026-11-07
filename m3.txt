@@ -137,7 +137,7 @@ MYTVSUPER,http://iptv.4666888.xyz/iptv2A.php?id=34
 TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=28
 TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
 TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
-TVB1翡翠一台,http://iptv.4666888.xyz/iptv2A.php?id=25
+TVB翡翠1台,http://iptv.4666888.xyz/iptv2A.php?id=25
 TVBS新闻网,http://61.221.215.25:8800/hls/9/index.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 ViuTV,https://10.fast.hidns.vip/163189/viu/video/index.php
