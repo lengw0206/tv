@@ -596,7 +596,7 @@ JJ斗地主频道,http://cfss.cc/cdn/huya/14079954.flv
 新澳,https://play8398.lianwin88.com/live/mosixmark.flv
 新澳,https://play3636.zdwafis.com/live/mosixmark.flv
 老澳,https://vdm6-ali.hrypl168.com/live/a6.flv
-本地部署,#genre#
+本地央视,#genre#
 CCTV-1综合,http://192.168.1.9:1905/12345678/608807420
 CCTV-2财经,http://192.168.1.9:1905/12345678/631780532
 CCTV-3综艺,http://192.168.1.9:1905/12345678/624878271
@@ -631,5 +631,6 @@ CCTV-13新闻,http://192.168.1.9:1905/12345678/relay/ysp-cctv13.m3u8
 CCTV-14少儿,http://192.168.1.9:1905/12345678/relay/ysp-cctv14.m3u8
 CCTV-15音乐,http://192.168.1.9:1905/12345678/relay/ysp-cctv15.m3u8
 CCTV-16奥林匹克,http://192.168.1.9:1905/12345678/relay/ysp-cctv164k.m3u8
+本地广东,#genre#
 大湾区卫视（海外版）,http://192.168.1.9:1905/12345678/relay/gdtv-46.m3u8
 广东4K超高清,http://192.168.1.9:1905/12345678/relay/gdtv-16.m3u8
