@@ -613,4 +613,4 @@ CCTV-12社会与法,http://192.168.1.9:1905/relay/ysp-cctv12.m3u8
 CCTV-13新闻,http://192.168.1.9:1905/relay/ysp-cctv13.m3u8
 CCTV-14少儿,http://192.168.1.9:1905/relay/ysp-cctv14m3u8
 CCTV-15音乐,http://192.168.1.9:1905/relay/ysp-cctv15.m3u8
-hCCTV-16奥林匹克,http://192.168.1.9:1905/relay/ysp-cctv164k.m3u8
+CCTV-16奥林匹克,http://192.168.1.9:1905/relay/ysp-cctv164k.m3u8
